@@ -1,5 +1,5 @@
 # Student-MIS
-I created this Student Management System using OOP (Object Oriented Programming) Concepts in C++.
+Student Management System created using OOP (Object Oriented Programming) Concepts in C++.
 This System provides you with 6 options:
         1- Add Record
         2- Display Record
